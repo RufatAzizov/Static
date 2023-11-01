@@ -1,0 +1,14 @@
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\bin\Debug\net6.0\HomeWork3110.exe
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\bin\Debug\net6.0\HomeWork3110.deps.json
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\bin\Debug\net6.0\HomeWork3110.runtimeconfig.json
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\bin\Debug\net6.0\HomeWork3110.dll
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\bin\Debug\net6.0\HomeWork3110.pdb
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\obj\Debug\net6.0\HomeWork3110.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\obj\Debug\net6.0\HomeWork3110.AssemblyInfoInputs.cache
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\obj\Debug\net6.0\HomeWork3110.AssemblyInfo.cs
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\obj\Debug\net6.0\HomeWork3110.csproj.CoreCompileInputs.cache
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\obj\Debug\net6.0\HomeWork3110.dll
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\obj\Debug\net6.0\refint\HomeWork3110.dll
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\obj\Debug\net6.0\HomeWork3110.pdb
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\obj\Debug\net6.0\HomeWork3110.genruntimeconfig.cache
+C:\Users\Rufat\source\repos\HomeWork3110\HomeWork3110\obj\Debug\net6.0\ref\HomeWork3110.dll
