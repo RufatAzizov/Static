@@ -1,0 +1,14 @@
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\bin\Debug\net6.0\DelegateHomeTask.exe
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\bin\Debug\net6.0\DelegateHomeTask.deps.json
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\bin\Debug\net6.0\DelegateHomeTask.runtimeconfig.json
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\bin\Debug\net6.0\DelegateHomeTask.dll
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\bin\Debug\net6.0\DelegateHomeTask.pdb
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\obj\Debug\net6.0\DelegateHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\obj\Debug\net6.0\DelegateHomeTask.AssemblyInfoInputs.cache
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\obj\Debug\net6.0\DelegateHomeTask.AssemblyInfo.cs
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\obj\Debug\net6.0\DelegateHomeTask.csproj.CoreCompileInputs.cache
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\obj\Debug\net6.0\DelegateHomeTask.dll
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\obj\Debug\net6.0\refint\DelegateHomeTask.dll
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\obj\Debug\net6.0\DelegateHomeTask.pdb
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\obj\Debug\net6.0\DelegateHomeTask.genruntimeconfig.cache
+C:\Users\Rufat\source\repos\DelegateHomeTask\DelegateHomeTask\obj\Debug\net6.0\ref\DelegateHomeTask.dll
